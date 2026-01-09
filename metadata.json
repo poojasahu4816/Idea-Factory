@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OptiStock AI - Advanced Inventory Intelligence",
+  "description": "An enterprise-grade AI-driven inventory optimization platform that uses predictive analytics and multi-source data (weather, trends, historical sales) to solve overstock and understock challenges through real-time demand forecasting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
